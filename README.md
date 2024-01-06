@@ -6,10 +6,6 @@ Hello 👋
 
 Most of my repositories are projects for personal and academic learning purposes. I am a second year student of the technical career in Artificial Intelligence at the National University of Rosario.
 
-I am currently learning about machine learning modeling and backend systems, and I want to contribute to predictive analytics and natural language processing artificial intelligence modeling projects.
-
-Browse the <a href="https://github.com/Shannon-21/Housing-Prices-Competition">Housing Price Competition</a> repository to see the improvement and progress of the machine learning model for the house price prediction for the competition in Kaggle. See <a href="https://github.com/Shannon-21/Proyecto_Pandas">Pandas Project</a> for the data analysis project with Pandas and <a href="https://github.com/Shannon-21/Django-Tutorial">Django Tutorial</a> for personal web page project.
-
 <!--
 **Shannon-21/Shannon-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
