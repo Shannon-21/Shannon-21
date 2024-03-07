@@ -1,10 +1,13 @@
 # Fabio Giampaoli
-### Artificial Intelligence College Student
+### Artificial Intelligence Technician and Software Developer
 ---
 
 Hello 👋
 
-Most of my repositories are projects for personal and academic learning purposes. I am a second year student of the technical career in Artificial Intelligence at the National University of Rosario.
+Most of my repositories are projects for personal and academic learning purposes. I am a third-year student of the technical career in Artificial Intelligence at the National University of Rosario. I work as a GeneXus developer at Valkimia.
+
+My interests are oriented towards data roles. I love learning and researching, and my goal is to become a professional in data engineering and data science. I aim to help people and organizations improve and perform advanced approaches through emerging technologies in order to grow and generate positive value in our lives.
+
 
 <!--
 **Shannon-21/Shannon-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
